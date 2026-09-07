@@ -22,19 +22,19 @@
     "url": "https://vle.must.ac.ug",
     "icon": "https://icons.duckduckgo.com/ip3/vle.must.ac.ug.ico",
     "slug": "vle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1992,
-    "timeDay": 1702,
-    "timeWeek": 1706,
-    "timeMonth": 1902,
-    "timeYear": 1992,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.64%",
+    "time": 1977,
+    "timeDay": 1503,
+    "timeWeek": 1655,
+    "timeMonth": 1884,
+    "timeYear": 1977,
     "dailyMinutesDown": {
-      "2026-09-07": 0
+      "2026-09-07": 223
     }
   },
   {
